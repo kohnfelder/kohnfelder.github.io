@@ -6,11 +6,11 @@ Simple example website on GitHub for sharing with others.
 
 ### Creating a GitHub Project
 
-1. **Log in to GitHub:** Head over to GitHub ([[https://github.com](https://github.com)]) and log in using your existing account.
+1. **Log in to GitHub:** Head over to GitHub ([https://github.com](https://github.com)) and log in using your existing account.
 2. **Create a new repository:** Click the "+" (or "New") button in
 the top right corner and select "New repository".
 3. **Choose a repository name:** For the website the repository name must be
-"*<acctname>*.github.io" (where *<acctname>* is replaced by your account name).
+"*acctname*.github.io" (where *acctname* is replaced by your account name).
 For example, if your account name is "example" then "example.github.io"
 (by the way, the quotes are not part of the actual name).
 4. **Enable GitHub Pages:** Check the box next to
@@ -22,7 +22,7 @@ near the upper right corner (part of a row of buttons (
 Code - Issues - ... - Insights - Settings).
 In the "Code and automation" section of the (left side) sidebar, click "Pages".
 Click the link you should see a box near the top saying,
-"Your site is live at https://*<acctname>*.github.io/"
+"Your site is live at https://*acctname*.github.io/"
 7. **Save your website URL**: Bookmark or otherwise save this link,
 as well as a link to your project for accessing it.
 
@@ -51,14 +51,22 @@ Git installed and configured.
 2. **Change directory:** Use the `cd` command to navigate to
 the location where you want to clone the repository.
 3. **Clone the repository:** Run the following command,
-replacing `<acctname>` with your actual GitHub username:
+replacing *acctname* with your actual GitHub username:
 
-   git clone https://github.com/<acctname>/<acctname>.github.io.git
+`git clone https://github.com/`*acctname*`/`*acctname*`.github.io.git`
 
-4. **Verify the clone:** Navigate to the cloned directory using
-`cd <project-name>` (where `<project-name>` is the name you used
-when creating the GitHub project). If the cloning was successful,
+4. **Verify the clone:** Navigate to the cloned directory using the command:
+
+`cd `*acctname*`.github.io.git`
+
+If the cloning was successful,
 you should see your website's `README.md` file and any other files you added.
+5. **Use Git to work on your repository:** Now you are work on the files
+on your computer and use Git to get updates and make changes.
+You will need to authenticate in order to sync up with GitHub in the cloud.
+See the documentation (classic access token is probably the easiest way):
+https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens#creating-a-personal-access-token-classic
+
 
 ## Additional Notes
 
