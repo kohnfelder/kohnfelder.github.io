@@ -94,7 +94,57 @@ You will need to authenticate in order to sync up with GitHub in the cloud.
 See the documentation (classic access token is probably the easiest way)
 [here](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens#creating-a-personal-access-token-classic).
 
-### Making of
+#### Simple Git commands
+
+An easy way to use Git is to always work on the "main" branch.
+All changes simply go one after the other into the repository.
+
+**If you edited files on github.com**: Then you need to update the
+files on your computer to sync up. 
+This command *pulls* files from the cloud into your local file directory.
+
+    git pull origin main
+
+**If you edited files on your computer** (under the git cloned directory):
+Then you need to send the changes up to the cloud when they are ready.
+The website will update once you do that.
+
+    git add .
+    git status
+    git commit -m "Explanation"
+    git push origin main
+
+* The `git add` command stages all changes you have made to be committed.
+* The `git status` command shows what files will commit
+(and how you can change things if it isn't what you intend).
+* The `git commit` command merges your local changes into the local
+"main" branch with the "Explanation" that you edit to describe the changes.
+* Finally, the `git push` command merges the local "main" branch to the cloud
+(origin) so they stay in sync.
+* The push and pull commands ask for authentication (see details above)
+to make sure you are authorized to make changes.
+
+**Keep it simple**: Avoid making changes via the web editor
+(at the origin in the cloud) and to local files without syncing first.
+That is, after editing (via the web, at the origin) go do `git pull`;
+and after changing files locally (when everything is good)
+do `git push`, and if you have the web page in your browser refresh it.
+
+**Not so simple**: Sometimes things aren't so simple despite good intentions.
+If you don't keep in sync then you will have to *merge*:
+if the changes are not in
+conflict Git will do it for you after a warning if you want and it should
+work but is a little scary. If you've changed the same section of the same
+file(s) then a serious merge is required (read up on that)
+-- or you can give up your changes and sync up cleanly.
+
+**Much more**: Git can do way more that this simplistic description,
+so if you want to learn more check it out with a web search
+of your question and if you include "git" in the keywords it will
+probably yield lots of good answers in whatever form or level you like.
+
+
+## Making of this guide
 
 The guide that appears above was written using generative AI,
 and edited for accuracy and clarity. The prompt to get it is shown below.
