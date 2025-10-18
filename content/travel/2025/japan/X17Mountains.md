@@ -17,7 +17,7 @@ Driving out of town as we ascend into the mountains climbing a narrow valley
 with all arable land planted mostly in rice.
 The road winds as it rises with isolated homes sprinkled in with the fields.
 
-https://sennyoji.or.jp/ (Japanese)
+[https://sennyoji.or.jp/](https://sennyoji.or.jp/) (Japanese)
 
 We arrived in time to observe *goma-taki* ceremony which centers on
 burning prayers for patrons (for good health, prosperity, safety, and so on)
@@ -64,7 +64,7 @@ very flavorful with a delicate semi-firm texture, the best tofu I've had.
 
 ### [珈道庵 Kodouan](https://www.kodouan.com/)
 
-Our destination was a coffee roaster -- not a coffee shop -- in the most
+Our destination was a coffee roaster — not a coffee shop — in the most
 remote location. Why roast coffee in such an out of the way place,
 so far from anything and off the beaten path? (I still don't know why.)
 Already following windy mountain roads through very small villages,
@@ -79,7 +79,7 @@ for sitting down to enjoy coffee with a beautiful wooded stream running by.
 
 The shop has many varieties and blends of coffee, elegantly packaged
 individually or as gift sets like you might buy Japanese tea or other
-delicacies. Prices ran from expensive to extravegant -- one set was almost
+delicacies. Prices ran from expensive to extravegant — one set was almost
 JPY 60,000 (about USD $400) for three 100g (3.5 ounce) packages.
 We ordered some (less expensive) coffee to try prepared by hand;
 since they aren't a coffee shop we got full size cups with a sweet snack
