@@ -4,6 +4,8 @@ date: 2025-10-15
 description: "Japan arrival"
 ---
 
+## Arrival: 福岡 Fukuoka
+
 I left Kaua‘i for Honolulu to the long flight to Fukuoka (FUK).
 Following the Alaska Airlines buyout of Hawaiian Airlines
 this route ends later this year so this will be my last direct flight.

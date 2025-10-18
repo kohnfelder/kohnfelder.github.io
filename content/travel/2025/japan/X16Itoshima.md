@@ -4,6 +4,8 @@ date: 2025-10-16
 description: "Staying in Itoshima just west of Fukuoka"
 ---
 
+## 糸島 Itoshima
+
 We have a lovely rental house in Itoshima on the waterfront
 ([Lana-Sea](https://www.lana-sea-itoshima.com/)).
 Like our home it's designed for the view with the main area on the 
