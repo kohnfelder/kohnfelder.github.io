@@ -10,5 +10,5 @@ title: Japan travelogue 2025
 * [10/16](./X16Itoshima.html) Itoshima
 * [10/17](./X17Mountains.html) Mountain temple, waterfalls, coffee roaster
 * [10/18](./X18ItoFes.html) Itoshima craft festival
-
+* [10/19](./X19SaltMaker.html) Mount Tateishi, Salt maker
 
