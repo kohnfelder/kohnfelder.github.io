@@ -14,6 +14,8 @@ to be Japan's next prime minister after months of political machinations.
 
 ![election](https://media.infosec.exchange/infosec.exchange/cache/media_attachments/files/115/411/014/063/640/654/original/5e9355cadac4fe62.webp "Takaichi officially elected prime minister")
 
+*(Note the glum expression of a bitter rival seated immediately behind her.)*
+
 Takaichi leads the Liberal Democratic Party (LDP) that has dominated
 post-war politics in Japan but recently fallen in popularity losing its
 majority in the Diet a few years ago and struggling ever since with
@@ -33,6 +35,18 @@ According to reporting cabinet seats were offered to the coalition
 partner but were declined (perhaps because the relatively new party members
 are relatively inexperienced, or perhaps due to lack of confidence in the
 new government).
+
+Japan's new prime minister is a woman with an unusual background. 
+As a young woman Takaichi was into heavy metal rock music. Accepted
+into elite colleges she did not attend because her parents refused to fund
+her education living away from home (apparently considering higher education
+not some important for a woman). Instead she went to the best university
+commuting several hours a day while continuing to live at home.
+She worked as in American on staff of a member of congress before
+returning to Japan to pursue a career in politics. Married to another
+politician, they divorced it is said over political differences and
+subsequently remarried with him taking her surname (in Japan spouses
+are not allowed to have different surnames).
 
 With the political maneuvering behind here, not PM Takaichi will get to work
 and we will see if the new government delivers results or not.
