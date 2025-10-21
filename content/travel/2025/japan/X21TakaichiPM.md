@@ -6,6 +6,8 @@ description: Sanae Takaichi officially elected prime minister of Japan
 
 *NOTE: The following is based on my casual following of political events, not to be mistaken for expert opinion.*
 
+## Sanae Takaichi elected prime minister of Japan
+
 Today the Diet elected 
 [Sanae Takaichi](https://en.wikipedia.org/wiki/Sanae_Takaichi) 
 to be Japan's next prime minister after months of political machinations.
