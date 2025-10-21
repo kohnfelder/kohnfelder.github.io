@@ -1,0 +1,42 @@
+---
+title: Walking to the station
+date: 2025-10-21
+description: Walk to Chikuzen-Maebaru Station, Sazanami Coffee
+---
+
+## Chikuzen-Maebaru station
+
+We are staying out near the rural areas of Itoshima where public transit
+is very limited (a long walk to the nearest bus stop, 
+and the interval between busses could be an hour) - quite like Kaua‘i
+actually. However, it's not *that far* and today was nice weather for a
+walk (moderate temperature and overcast) so I did the 10km walk to get
+a feel for the area you cannot get riding through in a car.
+
+Flat land in Itoshima is almost all either developed (homes or commercial use)
+or farmed, with very little wasted space. Along my route to the station
+I passed many rice paddies, mostly already cut but a few ready for harvest.
+
+![rice](https://lh3.googleusercontent.com/pw/AP1GczNo8BjMTv6sqipgDg5h1tam5UjIPUWbGGjroVExm1g9x4OXk3AZrmhM4CP7g8fGsJIhGyYvXGPyNh0ydN12XZSAyTCAcx7EhBxUE6lJNuedeOyrtG2SWURubrj0q4IBOWwzPovSwcEBQsdsZeU39mgDdQ=w1990-h1266-s-no-gm "Rice ready for harvest")
+
+In Japanese 米（こめ *kome*） is the food rice, but the plant is 稲（いね *ine*）.
+Most harvesting is done by machine and processed industrially these days,
+but a few farmers operate traditionally, cutting the stalks near the ground
+and hanging them in the field to dry before knocking off the rice kernels.
+
+![cosmos](https://lh3.googleusercontent.com/pw/AP1GczMu4cAFAU8HdqUNnsLGgKyhdd1LCcEwSxjtNauBHXjWml7fVAsavrShXlq4h8fXlJHon2N634wD17IpEzuWnJdeRwFqjzN7NL-apB928V1fHvz1vPIJb02vACQMQ9FjxDDs-C28plQtm3hdkYAtUjIn_Q=w2251-h1126-s-no-gm "Cosmos line the fields along the roads")
+
+Many fields have a narrow band of flowers as a border along the road.
+Cosmos are popular, and often it's sunflowers.
+I assume these were planted years ago and naturally sustain themselves.
+It's a very nice touch.
+
+### Sazanami coffee
+
+I found another small coffee roaster in town, 
+[Sazanami coffee](https://coffee-sazanami.com/).
+Mr Urakawa has a 1kg infrared heater roaster in the back of the shop
+producing several blends and single origin coffees.
+
+We talked about coffee roasting and I shared some Kauai Roastery
+coffee I'd brought as gifts.

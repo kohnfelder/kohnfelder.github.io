@@ -1,7 +1,7 @@
 ---
 title: Takasu
 date: 2025-10-19
-description: Takasu shrine, Mori to Coffee, Ito-sai-sai
+description: Takasu shrine, Mori to Coffee, Ito-sai-sai, fish lunch
 ---
 
 ## Takasu
@@ -42,6 +42,22 @@ of a long-held wish "to live the way I wanted to live."
 Open from noon only four days a week (so he has plenty of free time)
 somehow they get enough business in this remote location to make
 the business work. It certainly looks like he is living his wish.
+
+### Ito-sai-sai
+
+JA (Japan Agriculture, the quasi-government organization supporting
+farmers here with co-ops, stores, and other resources) operations
+[Ito-sai-sai](https://ja-itoshima.or.jp/itosaisai/) which is a local
+treasure selling produce of all kinds direct to consumers from the
+farmers and fishermen.
+
+It's like a large supermarket (large by Japanese standards, medium
+by American) however everything sold is locally produced, and most of
+the store contents sell out by the end of the day. Crowded at opening
+because that's when you can buy the best products which sell out quickly,
+people flock here for the best local produce at the best prices.
+Many restaurant owners shop here for the same reasons, so it's quite
+crowded from opening into late afternoon. 
 
 ### Fish lunch
 

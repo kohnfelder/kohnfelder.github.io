@@ -12,3 +12,4 @@ title: Japan travelogue 2025
 * [10/18](./X18ItoFes.html) Itoshima craft festival
 * [10/19](./X19SaltMaker.html) Mount Tateishi, Salt maker
 * [10/20](./X20Takasu.html) Takasu shrine, Mori to coffee, Maru-TA live fish
+* [10/21](./X21Walking.html) Walk to Chikuzen-Maebaru Station, Sazanami Coffee
