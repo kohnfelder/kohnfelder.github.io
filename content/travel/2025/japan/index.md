@@ -14,3 +14,4 @@ title: Japan travelogue 2025
 * [10/20](./X20Takasu.html) Takasu shrine, Mori to coffee, Maru-TA live fish
 * [10/21](./X21Walking.html) Walk to Chikuzen-Maebaru Station, Sazanami Coffee
 * [10/21](./X21TakaichiPM.html) Sanae Takaichi elected prime minister of Japan
+* [10/22](./X22KyuuDai.md) Kyuushuu University
